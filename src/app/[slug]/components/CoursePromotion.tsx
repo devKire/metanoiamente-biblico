@@ -140,10 +140,10 @@ export function CoursePromotion({ contact }: CoursePromotionProps) {
             >
               <div className="flex items-baseline gap-3">
                 <span className="font-poppins text-3xl font-bold text-[#4A3C2A] lg:text-4xl">
-                  R$ 27,00
+                  R$ 19,90
                 </span>
                 <span className="font-merriweather text-lg text-[#4A3C2A]/60 line-through">
-                  R$ 54,00
+                  R$ 39,90
                 </span>
                 <span className="font-montserrat rounded-full bg-green-100 px-2 py-1 text-sm font-medium text-green-700">
                   -50%
