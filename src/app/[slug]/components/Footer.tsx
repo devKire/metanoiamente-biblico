@@ -25,7 +25,7 @@ const Footer = ({ contact, landingpage }: FooterProps) => {
         <div className="border-t border-[#C6A76F]/30 pt-6">
           <p className="font-merriweather mb-2 text-base italic">
             &ldquo;Lâmpada para os meus pés é a tua palavra e luz, para o meu
-            caminho.&rquot&rdquo;
+            caminho.&rdquo;
           </p>
           <p className="font-montserrat text-sm text-[#C6A76F]">
             — Salmos 119:105

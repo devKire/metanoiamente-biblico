@@ -52,7 +52,7 @@ const SectionInterest = ({ contact }: SectionServicesProps) => {
   };
 
   const desktop_video =
-    "https://dgtzlsctyrtfbmyuqjux.supabase.co/storage/v1/object/public/video/video.mkv";
+    "https://dgtzlsctyrtfbmyuqjux.supabase.co/storage/v1/object/public/video/desktop_video.mkv";
   const mobile_video =
     "https://dgtzlsctyrtfbmyuqjux.supabase.co/storage/v1/object/public/video/mobile_video_.mp4";
 

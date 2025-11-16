@@ -145,7 +145,7 @@ const SectionDesire = ({ contact }: SectionAboutProps) => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             Tudo isto dependende de você e da sua intimidade com Deus, você não
-            transformara sua vida se não der o trabalho deter disciplina
+            transformara sua vida se não der o trabalho de ter disciplina
             espiritual e relacionamento profundo com Deus. Tudo depende da sua
             força de vontade! Não é uma solução milagrosa, mas sim um chamado a
             mudança e transformação de mentalidade!

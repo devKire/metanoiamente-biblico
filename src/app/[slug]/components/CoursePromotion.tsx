@@ -2,7 +2,7 @@
 
 import { ContactInfo } from "@prisma/client";
 import { motion } from "framer-motion";
-import { Clock, Cross, Eye, Star, Users } from "lucide-react";
+import { Clock, Cross, Eye, Plus, Star, Users } from "lucide-react";
 import Image from "next/image";
 
 interface CoursePromotionProps {
@@ -207,8 +207,7 @@ export function CoursePromotion({ contact }: CoursePromotionProps) {
                 {/* Badge de preview */}
                 <div className="absolute top-4 right-4 rounded-full bg-[#4A3C2A]/80 px-3 py-1 backdrop-blur-sm">
                   <span className="font-montserrat flex items-center gap-1 text-sm font-medium text-[#F5EBDD]">
-                    <Eye className="h-3 w-3" />
-                    Preview
+                    📖 15 capítulos
                   </span>
                 </div>
 
@@ -218,8 +217,8 @@ export function CoursePromotion({ contact }: CoursePromotionProps) {
 
               {/* Indicador de qualidade */}
               <div className="absolute bottom-4 left-4 rounded-full bg-[#4A3C2A]/80 px-3 py-1 backdrop-blur-sm">
-                <span className="font-montserrat text-xs font-medium text-[#F5EBDD]">
-                  📖 200+ páginas de conteúdo
+                <span className="font-montserrat flex items-center gap-1 text-sm font-medium text-[#F5EBDD]">
+                  200+ páginas de conteúdo
                 </span>
               </div>
             </div>
